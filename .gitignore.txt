@@ -1,0 +1,52 @@
+# Ignorer les fichiers de configuration temporaires
+Config/DefaultEngine.ini
+Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini
+Saved/Config/WindowsEditor/Engine.ini
+Saved/SourceControl/
+Saved/Config/CrashReportClient/
+Saved/Config/WorldState/
+Saved/Logs/
+Saved/Autosaves/
+Saved/AutoScreenshot.png
+
+# Ignorer les données de build et les fichiers temporaires
+Intermediate/
+DerivedDataCache/
+Saved/
+
+# Ignorer les acteurs et objets externes
+Content/__ExternalActors__/
+Content/__ExternalObjects__/
+
+# Ne pas ignorer les fichiers nécessaires au projet collaboratif
+!Content/Multiplayer/Level/**/*.umap
+!Content/Multiplayer/Level/**/*.uasset
+
+# Ignorer les fichiers de sauvegarde et les logs générés par le moteur
+*.log
+*.backup-*.log
+*.tmp
+
+# Ignorer les données spécifiques à l'utilisateur
+*.ini
+*.json
+*.bin
+
+# Ignorer les données de crash
+*.dmp
+*.pdb
+
+# Ignorer les fichiers générés par le concert/sources de collaboration
+Intermediate/Concert/
+
+# Ignorer les fichiers de sauvegarde du World Partition
+Saved/Logs/WorldPartition/
+
+# Ne pas ignorer les fichiers critiques pour les cartes
+!Content/Multiplayer/Level/**/*.umap
+!Content/Multiplayer/Level/**/*.uasset
+
+# Ne pas ignorer des fichiers spécifiques (si nécessaire)
+!Content/Multiplayer/Level/Maps/Map1/Beach.umap
+!Content/Multiplayer/Level/Maps/Map1/Beach_BuiltData.uasset
+!Content/Multiplayer/Level/Maps/Map2/Salle.umap
