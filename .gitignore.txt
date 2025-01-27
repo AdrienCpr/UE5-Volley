@@ -13,6 +13,7 @@ Saved/AutoScreenshot.png
 Intermediate/
 DerivedDataCache/
 Saved/
+Saved/Logs/
 
 # Ignorer les acteurs et objets externes
 Content/__ExternalActors__/

@@ -6916,3 +6916,13 @@ Sampler Limit: 32
 [2025.01.27-18.09.54:714][341]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2080.025146
 [2025.01.27-18.09.55:713][344]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.01.27-18.09.55:713][344]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2080.691650, Update Interval: 303.219086
+[2025.01.27-18.15.31:774][352]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2417.082520
+[2025.01.27-18.15.32:774][355]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.27-18.15.32:774][355]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2417.749756, Update Interval: 323.256927
+[2025.01.27-18.20.21:141][220]LogConcertTakeRecorder: Display: Session Client Change: AdrnPrime Disconnected.
+[2025.01.27-18.20.21:143][220]LogConcert: Display: User 'adrie' (Endpoint: 00DA79054458D50CC5DB759BEEDFF817) left Concert session 'AdJuServer' (Id: 8F4886EE422142F26F69E7B8B5EEFE16, Owner: Labou).
+[2025.01.27-18.20.21:143][220]LogConcert: Display: Synced activity '32' produced by endpoint '00DA79054458D50CC5DB759BEEDFF817': AdrnPrime a arrêté la réplication de 0 object.
+[2025.01.27-18.20.21:145][220]LogConcert: Display: Synced activity '33' produced by endpoint '00DA79054458D50CC5DB759BEEDFF817': AdrnPrime a quitté la session.
+[2025.01.27-18.21.49:151][485]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2794.457764
+[2025.01.27-18.21.50:149][487]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.27-18.21.50:150][487]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2795.124756, Update Interval: 323.612183
